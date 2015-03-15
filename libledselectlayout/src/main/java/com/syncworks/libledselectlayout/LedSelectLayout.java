@@ -17,7 +17,6 @@ import com.syncworks.define.Define;
  * Smart Light 커넥터 선택 레이아웃
  */
 
-// Some Changes
 public class LedSelectLayout extends RelativeLayout{
 	private final static String TAG = LedSelectLayout.class.getSimpleName();
 

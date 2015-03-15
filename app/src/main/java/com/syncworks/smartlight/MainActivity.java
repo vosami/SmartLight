@@ -49,6 +49,8 @@ public class MainActivity extends ActionBarActivity {
 				startActivity(intent);
 				break;
 			case R.id.btn_timer_set:
+				intent = new Intent(this, CreateScriptActivity.class);
+				startActivity(intent);
 				break;
 		}
 	}
