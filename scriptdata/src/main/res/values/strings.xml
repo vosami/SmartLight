@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ScriptData</string>
+    <string name="dialog_script_operator_title">명령어 선택</string>
+</resources>
